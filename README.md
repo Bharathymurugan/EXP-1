@@ -70,6 +70,8 @@ a.   KVL:
 b.  KCL:
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/e5a57d30-315d-44bd-939f-ceb4f5284732" />
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d3d78da6-6cef-42f6-99ba-c12d7019c6de" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/7008e64d-ca90-47a0-ac60-fdef8f1ea2ed" />
+
 
 
 
